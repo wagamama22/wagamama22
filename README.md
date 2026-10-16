@@ -29,6 +29,9 @@ Python
 C#
 
 
+## Resume
+
+
 ## 🚀 Featured Projects
 Explore my pinned repositories below to see projects ranging from Ionic React applications to PHP/MySQL systems and Python-powered solutions.
 
