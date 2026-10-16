@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Morgan Chinedu Ofodum 👋
 
-<!--
-**wagamama22/wagamama22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer
+📍 Malta, Europe
+🎓 Advanced Diploma in Information Technology (MQF/EQF Level 4)
 
-Here are some ideas to get you started:
+I build web and mobile applications using JavaScript, React, Ionic, PHP, MySQL, Python and C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+JavaScript, React, Ionic, PHP, MySQL, Python and C#.
+
+🌐 Portfolio: https://mymorgan.morganugochukwu.com
+
+## 🚀 Featured Projects
+Explore my pinned repositories below to see projects ranging from Ionic React applications to PHP/MySQL systems and Python-powered solutions.
+
+### devlearn
+https://github.com/wagamama22/devlearn
+
+### onlineshop - E-Commerce Web App
+https://github.com/wagamama22/onlineShop
+
+### RoadRampage
+https://github.com/wagamama22/RoadRampage
+
+### Automated Smart Home Monitoring System with Remote Access
+https://github.com/wagamama22/smart-home-monitoring
+
+### Morgan Limited
+https://github.com/wagamama22/morgan-limited
