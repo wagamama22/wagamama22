@@ -10,7 +10,7 @@ MQF/EQF Level 4
 
 Alumni of MCAST
 
-I’m Morgan, an IT graduate based in Malta with hands on experience in software development, web applications, and game development. This portfolio highlights my strongest projects, technical skills, and career focus as I pursue graduate and junior developer roles.
+I’m Morgan, an IT graduate based in Malta with hands on experience in software development, web applications, and game development. This portfolio highlights my strongest projects, technical skills, and career focus as I pursue graduate internship/traneeship and junior developer roles.
 
 ## Skills
 
