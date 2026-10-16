@@ -4,7 +4,11 @@
 
 📍 Malta, Europe
 
-🎓 Advanced Diploma in Information Technology (MQF/EQF Level 4)
+🎓 Advanced Diploma in Information Technology (Software Development)
+
+MQF/EQF Level 4
+
+Alumni of MCAST
 
 I build web and mobile applications using JavaScript, React, Ionic, PHP, MySQL, Python and C#.
 
