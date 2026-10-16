@@ -1,16 +1,29 @@
 # Hi, I'm Morgan Chinedu Ofodum 👋
 
 💻 Junior Software Developer
+
 📍 Malta, Europe
+
 🎓 Advanced Diploma in Information Technology (MQF/EQF Level 4)
 
 I build web and mobile applications using JavaScript, React, Ionic, PHP, MySQL, Python and C#.
 
 ## Skills
 
-JavaScript, React, Ionic, PHP, MySQL, Python and C#.
+JavaScript
 
-🌐 Portfolio: https://mymorgan.morganugochukwu.com
+React
+
+Ionic
+
+PHP
+
+MySQL
+
+Python 
+
+C#
+
 
 ## 🚀 Featured Projects
 Explore my pinned repositories below to see projects ranging from Ionic React applications to PHP/MySQL systems and Python-powered solutions.
