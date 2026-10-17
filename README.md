@@ -31,6 +31,8 @@ C#
 
 ## Resume
 
+https://github.com/wagamama22/RoadRampage/blob/main/resume/morgan_ofodum_MCAST_software_developer.pdf
+
 
 ## 🚀 Featured Projects
 Explore my pinned repositories below to see projects ranging from Ionic React applications to PHP/MySQL systems and Python-powered solutions.
