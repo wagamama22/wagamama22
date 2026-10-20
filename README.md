@@ -31,7 +31,7 @@ C#
 
 ## Resume
 
-https://github.com/wagamama22/RoadRampage/blob/main/resume/morgan_ofodum_MCAST_software_developer.pdf
+https://github.com/wagamama22/MyApp/blob/main/resume/morgan_ofodum_MCAST_software_development.pdf
 
 
 ## 🚀 Featured Projects
